@@ -1,0 +1,6 @@
+Proyecto que muestra el uso0 básico del componente WebView en Android.
+
+- Declaración de un WebView en XML y propiedades básicas.
+- Declaración desde código Java.
+
+Ver tutorial: http://androideity.com/2011/09/18/trabajando-con-el-webkit-browser-de-android/
